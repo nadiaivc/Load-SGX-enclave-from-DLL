@@ -1,0 +1,10 @@
+﻿  Dump Enclave sigstruct
+  Succeed.
+  crypto.c
+  hexutil.c
+  mrsigner.c
+  getopt.c
+  Generating Code...
+     Creating library D:\VS\sgx-ra-sample-master2\sgx-ra-sample-master — копия\vs\x64\Debug\mrsigner.lib and object D:\VS\sgx-ra-sample-master2\sgx-ra-sample-master — копия\vs\x64\Debug\mrsigner.exp
+  mrsigner.vcxproj -> D:\VS\sgx-ra-sample-master2\sgx-ra-sample-master — копия\vs\x64\Debug\mrsigner.exe
+  Calculate MRSIGNER

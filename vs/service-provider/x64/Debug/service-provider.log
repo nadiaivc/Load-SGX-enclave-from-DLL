@@ -1,0 +1,19 @@
+﻿  Get-Content : Не удается найти путь "D:\VS\sgx-ra-sample-master2\sgx-ra-sample-master - копия\vs\service-provider\polic
+  y.in", так как он не существует.
+  строка:1 знак:72
+  + ... ug\enclave_mrsigner.txt; ( ( Get-Content -Path policy.in -Raw ) -repl ...
+  +                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      + CategoryInfo          : ObjectNotFound: (D:\VS\sgx-ra-sa...vider\policy.in:String) [Get-Content], ItemNotFoundEx 
+     ception
+      + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.GetContentCommand
+   
+  sp.cpp
+D:\VS\sgx-ra-sample-master2\sgx-ra-sample-master — копия\sp.cpp(257,31): warning C4244: '=': conversion from 'unsigned long' to 'sgx_prod_id_t', possible loss of data
+D:\VS\sgx-ra-sample-master2\sgx-ra-sample-master — копия\sp.cpp(269,23): warning C4244: '=': conversion from 'unsigned long' to 'sgx_isv_svn_t', possible loss of data
+D:\VS\sgx-ra-sample-master2\sgx-ra-sample-master — копия\sp.cpp(207,7): warning C4101: 'c': unreferenced local variable
+D:\VS\sgx-ra-sample-master2\sgx-ra-sample-master — копия\sp.cpp(836,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'sgx_ra_msg3_t *'
+  service-provider.vcxproj -> D:\VS\sgx-ra-sample-master2\sgx-ra-sample-master — копия\vs\x64\Debug\sp.exe
+  ..\run-client.cmd
+  ..\run-server.cmd
+  ..\settings.cmd
+  Скопировано файлов: 3.

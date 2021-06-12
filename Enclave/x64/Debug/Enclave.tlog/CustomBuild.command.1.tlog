@@ -1,0 +1,2 @@
+^D:\VS\SGX-RA-SAMPLE-MASTER2\SGX-RA-SAMPLE-MASTER — КОПИЯ\ENCLAVE\ENCLAVE.EDL
+"C:\Program Files (x86)\Intel\IntelSGXSDK\bin\win32\release\sgx_edger8r.exe" --trusted "D:\VS\sgx-ra-sample-master2\sgx-ra-sample-master — копия\Enclave\Enclave.edl" --search-path "C:\Program Files (x86)\Intel\IntelSGXSDK\include"
