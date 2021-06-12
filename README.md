@@ -77,3 +77,6 @@ Injection:
 You have to inject your client.dll to the target process (in x64\Debug\ I put an empty program (hello.exe) that prints the line "hello"). It doesn't work with simple LoadLibrary injection!! I used this injector (https://github.com/guided-hacking/GuidedHacking-Injector) and type "ManualMap" and it works good.
 
 ## <a name="output"></a>Demonstration
+
+https://user-images.githubusercontent.com/47255730/121778815-60415680-cba1-11eb-88fe-ff6d36afb33a.mp4
+
