@@ -15,6 +15,10 @@ This code sample demonstrates the procedures that must be followed when running 
 
 For complete information on remote attestation, see the [white paper](https://software.intel.com/en-us/articles/intel-software-guard-extensions-remote-attestation-end-to-end-example) on Intel's Developer Zone.
 
+### Schema:
+
+![image](https://user-images.githubusercontent.com/47255730/121885512-eafa9080-cd1c-11eb-8518-d4ec29739ed6.png)
+
 ## <a name="build"></a>Building the Sample
 
 For simplicity, the client and server are packaged and built together. In a real-world environment, these would be separate builds.
