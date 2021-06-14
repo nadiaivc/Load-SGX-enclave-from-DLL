@@ -1,4 +1,4 @@
-# Intel&reg; Software Guard Extensions (SGX) Remote Attestation from DLL Sample
+# Loading SGX enclave from DLL Sample (with remote attestation)
 
 * [Introduction](#intro)
 * Building
